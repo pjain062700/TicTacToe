@@ -1,4 +1,4 @@
-package com.idklol;
+package com.ttt;
 
 public class Main {
 
