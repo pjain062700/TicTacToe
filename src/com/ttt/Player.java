@@ -1,4 +1,4 @@
-package com.idklol;
+package com.ttt;
 
 import java.util.Scanner;
 
